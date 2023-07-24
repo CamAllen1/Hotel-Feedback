@@ -46,8 +46,6 @@ hotel-feedback-page/
 │   └── styles.css
 ├── js/
 │   └── script.js
-└── images/
-    └── hotel.jpg
 ```
 
 - `index.html`: The main HTML file that contains the structure of the feedback page.
